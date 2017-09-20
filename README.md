@@ -9,13 +9,10 @@ https://www.meetup.com/owaspnycnj/
 Project leader's name:
 
 Evin Hernandez
-
 Tom Brennan
-
 Dan D'Amelio
+Bhavin Shah
 
-Vitaliy Dubinskiy
-
-Virtual Village Request Form Rev1.
+Virtual Village request Form Rev1.
 
 https://goo.gl/forms/muaaixyTGWgJSLTk1
